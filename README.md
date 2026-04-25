@@ -69,6 +69,8 @@ Mas percebi uma coisa: me falta um norte sobre qual escolher como início de car
 
 O foco agora tem sido certeiro, conquistar meu estágio f@da1
 
+<img width="1414" height="2000" alt="Image" src="https://github.com/user-attachments/assets/55dab499-07a5-4045-bc97-58301593d584" />
+
 ---
 
 ### 🕵️ CONTEXTO — ORIGEM DA INVESTIGAÇÃO (MARCARAM MINHA TRAJETÓIA/ESCOLHA ACADÊMICA)
