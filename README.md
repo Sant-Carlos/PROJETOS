@@ -104,50 +104,47 @@ Critérios utilizados:
 
 ---
 
-### 🌐 MAPEAMENTO — SUPERFÍCIE DE ATUAÇÃO (PREPARANDO UM PROEJETO)
+### 📎 EVIDÊNCIAS COLETADAS - CASOS ANALISADOS (PROJETOS EM QUE DESENVOLVI A PRÁTICA)
 
-Foi identificado que o ativo possui exposição nos seguintes contextos:
-
-Ambientes:
-
-* [Acadêmico / Labs / Projetos próprios]
-
-Tecnologias exploradas:
-
-* [Tecnologia 1]
-* [Tecnologia 2]
-
-Áreas de contato:
-
-* [Ex: Web Security, Redes, OSINT]
-
----
-
-### 📎 EVIDÊNCIAS COLETADAS (CASOS ANALISADOS) (PROJETOS EM QUE DESENVOLVI A PRÁTICA)
-
-#### 🧾 Caso 001 — [Nome do projeto ou estudo]
+#### 🧾 Caso 001 — PROJETO TYPHONCOM - JULHO/2025 - DEZEMBRO/2025
 
 **Descrição do cenário:**
-[Problema ou objetivo]
+Projeto construído em equipe, no seguinte contexto: Mapear processos de uma empresa real e compreender o fluxo da informação, integrando conhecimentos técnicos, empresariais, legais e humanísticos para propor ferramentas, procedimentos e infraestrutura de hardware que aprimorem a segurança da informação. A empresa em estudo foi do ramo de telecomunicações, em que preservamos sua identidade por um nome fictício.
 
-**Ação do ativo:**
-[O que você fez]
+**Ação/Responsabilidade do ativo:**
+- Contexto de Organização (Missão, Visão e Valores) e Negócio (Oferta de serviços de internet via fibra óptica);
+- Mapeamento dos dispositivos pessoais utilizados na organização (BYOD - Bring Your Own Device) e seus principais riscos de acordo com a gestão e análise de risco;
+- Estudo de PSI (Política de Segurança da Informação);
+- Criação do modelo de Sistema de Informação e também pela Análise de Riscos / Continuidade / Contingência/.
+- Trabalho em equipq, trazendo pontos relevantes, mudanças ou complementos. Quando necessário, ajudei os demais integrantes da equipe nesses pontos.
 
 **Metodologia aplicada:**
 [Passo a passo / ferramentas]
+
+
+
+IMAGENS:
+-Organização e Negócio
+-BYOD (QUADRO)
+-PSI
+-MODELO SISTEMA DE INFORMAÇÃO
 
 **Resultado obtido:**
 [Resultado]
 
 **Análise do analista:**
-Foi observado que o ativo demonstrou:
+Foi demonstrado que pude desenvolver:
 
 * [Competência 1]
 * [Competência 2]
 
 **Aprendizados identificados:**
 
-* [Aprendizado 1]
+* (Ferramentas e aspectos de segurança)
+
+**Atenção**
+Este projeto foi adaptado para fins de portfólio.
+Nenhuma informação confidencial ou identificável da organização original foi incluída.
 
 ---
 
