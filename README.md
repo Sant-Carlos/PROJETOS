@@ -121,13 +121,7 @@ Projeto construído em equipe, no seguinte contexto: Mapear processos de uma emp
 **Metodologia aplicada:**
 [Passo a passo / ferramentas]
 
-
-
-IMAGENS:
--Organização e Negócio
--BYOD (QUADRO)
--PSI
--MODELO SISTEMA DE INFORMAÇÃO
+[TYPHONCOM - CASO.pdf](https://github.com/user-attachments/files/27088121/TYPHONCOM.-.CASO.pdf)
 
 **Resultado obtido:**
 [Resultado]
