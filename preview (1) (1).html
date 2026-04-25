@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Carlos Bittencourt | Portfólio</title>
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --bg: #0a0a0f;
+  --card: #11111a;
+  --accent: #00c2ff;
+  --text: #e6e6eb;
+  --muted: #9ca3af;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+h1,h2,h3 {
+  font-family: 'Outfit', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 2rem;
+}
+
+/* NAV */
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  backdrop-filter: blur(10px);
+  background: rgba(10,10,15,0.6);
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  z-index: 999;
+}
+
+nav .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  margin-left: 20px;
+  font-size: 0.9rem;
+  color: var(--muted);
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: var(--accent);
+}
+
+/* HERO */
+.hero {
+  padding-top: 120px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+}
+
+.hero p {
+  margin-top: 1rem;
+  color: var(--muted);
+}
+
+.buttons {
+  margin-top: 2rem;
+}
+
+.btn {
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  margin: 5px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: var(--accent);
+  color: #000;
+}
+
+/* SECTIONS */
+section {
+  margin-top: 100px;
+}
+
+/* CARDS */
+.card {
+  background: var(--card);
+  padding: 1.5rem;
+  border-radius: 14px;
+  margin-top: 20px;
+  transition: 0.3s;
+  border: 1px solid transparent;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  border: 1px solid var(--accent);
+}
+
+/* TAGS */
+.tags {
+  margin-top: 10px;
+}
+
+.tag {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.05);
+  margin: 3px;
+  font-size: 0.75rem;
+}
+
+/* TIMELINE */
+.timeline {
+  border-left: 2px solid var(--accent);
+  padding-left: 20px;
+}
+
+.timeline div {
+  margin-bottom: 20px;
+}
+
+/* FOOTER */
+footer {
+  margin-top: 100px;
+  text-align: center;
+  color: var(--muted);
+}
+
+/* ANIMAÇÃO */
+.fade {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: 0.6s ease;
+}
+
+.fade.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* RESPONSIVO */
+@media(max-width:768px){
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<nav>
+  <div class="container">
+    <strong>Heitor Carlos</strong>
+    <div>
+      <a href="#projetos">Projetos</a>
+      <a href="#sobre">Sobre</a>
+      <a href="#contato">Contato</a>
+    </div>
+  </div>
+</nav>
+
+<main class="container">
+
+<!-- HERO -->
+<section class="hero fade">
+  <h1>Heitor Carlos</h1>
+  <p>Consultoria de TI • Gestão de Projetos • Estratégia e Transformação Digital</p>
+  <p>Conectando negócios, pessoas e tecnologia para gerar valor real e sustentável.</p>
+
+  <div class="buttons">
+    <a href="#projetos" class="btn">Ver Projetos</a>
+    <a href="https://br.linkedin.com/in/heitorcarlos" target="_blank" class="btn">LinkedIn</a>
+    <a href="https://github.com/Sant-Carlos/PROJETOS" target="_blank" class="btn">GitHub</a>
+  </div>
+</section>
+
+<!-- SOBRE -->
+<section id="sobre" class="fade">
+  <h2>Sobre Mim</h2>
+  <p>
+    Profissional focado em conectar estratégia de negócios com tecnologia, atuando com gestão de projetos, metodologias ágeis e consultoria em TI. Experiência em ambientes complexos, com foco em eficiência operacional, organização e entrega de valor.
+  </p>
+
+  <div class="tags">
+    <span class="tag">Gestão de Projetos</span>
+    <span class="tag">Agilidade (Scrum/Kanban)</span>
+    <span class="tag">Product Owner</span>
+    <span class="tag">Power BI</span>
+    <span class="tag">BPMN</span>
+    <span class="tag">Consultoria</span>
+    <span class="tag">Transformação Digital</span>
+  </div>
+</section>
+
+<!-- PROJETOS -->
+<section id="projetos" class="fade">
+  <h2>Projetos</h2>
+
+  <div class="card">
+    <h3>Vektro System</h3>
+    <p>Plataforma para criação de orçamentos de serviços com foco em produtividade e organização de processos empresariais.</p>
+    <div class="tags">
+      <span class="tag">React</span>
+      <span class="tag">Node.js</span>
+      <span class="tag">UX/UI</span>
+    </div>
+    <a href="https://github.com/Sant-Carlos/PROJETOS" target="_blank">Ver repositório →</a>
+  </div>
+
+  <div class="card">
+    <h3>Gestão de Manutenção</h3>
+    <p>Sistema de ordens de serviço com controle de acesso, relatórios e QR Code para rastreabilidade de ativos.</p>
+    <div class="tags">
+      <span class="tag">Node.js</span>
+      <span class="tag">Banco de Dados</span>
+      <span class="tag">Automação</span>
+    </div>
+    <a href="https://github.com/Sant-Carlos/PROJETOS" target="_blank">Ver repositório →</a>
+  </div>
+
+</section>
+
+<!-- EXPERIÊNCIA -->
+<section class="fade">
+  <h2>Experiência</h2>
+
+  <div class="timeline">
+    <div>
+      <h3>Grupo SADA</h3>
+      <p>Atuação em projetos estratégicos com foco em eficiência operacional e transformação.</p>
+    </div>
+
+    <div>
+      <h3>Product Owner</h3>
+      <p>Gestão de backlog, priorização e alinhamento entre negócio e tecnologia.</p>
+    </div>
+  </div>
+</section>
+
+<!-- CONTATO -->
+<section id="contato" class="fade">
+  <h2>Contato</h2>
+  <p>Vamos construir algo relevante juntos.</p>
+
+  <div class="tags">
+    <a href="https://br.linkedin.com/in/heducarlos" target="_blank" class="tag">LinkedIn</a>
+    <a href="https://github.com/Sant-Carlos/PROJETOS" target="_blank" class="tag">GitHub</a>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <p>© 2026 Carlos Bittencourt • Todos os direitos reservados</p>
+</footer>
+
+<script>
+const elements = document.querySelectorAll('.fade');
+
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if(entry.isIntersecting){
+      entry.target.classList.add('show');
+    }
+  });
+});
+
+elements.forEach(el => observer.observe(el));
+</script>
+
+</body>
+</html>
