@@ -119,9 +119,13 @@ Projeto construído em equipe, no seguinte contexto: Mapear processos de uma emp
 - Trabalho em equipq, trazendo pontos relevantes, mudanças ou complementos. Quando necessário, ajudei os demais integrantes da equipe nesses pontos.
 
 **Metodologia aplicada:**
-[Passo a passo / ferramentas]
 
-[TYPHONCOM - CASO.pdf](https://github.com/user-attachments/files/27088121/TYPHONCOM.-.CASO.pdf)
+<img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/2950431e-c92e-4fa9-b0f2-9ff57c0dd87c" />
+<img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/8919d92f-9442-40eb-8013-e536c273b694" />
+<img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/4f4bcbc6-b16d-4e29-a368-bcc58dc0f21c" />
+<img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/f427fdfe-5b38-4bc1-a84c-0304bcac733b" />
+<img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/c4d8da5c-052e-46c1-a9ef-bcc13c789a4b" />
+<img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/65ae4b93-8d26-4df8-98bb-3d307e050dc0" />
 
 **Resultado obtido:**
 [Resultado]
