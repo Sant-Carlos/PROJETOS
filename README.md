@@ -28,11 +28,15 @@ Assim nasceu o desejo por entender riscos, falhas e principalmente: como se prot
 
 ---
 
-{FOTO MINHA} Oi eu sou Carlos, o estagiário ideal para o seu time!
+<img width="570" height="571" alt="Image" src="https://github.com/user-attachments/assets/a91e17d2-5710-471d-9306-15a8c0d78e4e" />
+Oi eu sou Carlos, o estagiário ideal para o seu time!
 
 **Status:** Em constante desenvolvimento!
+
 **Ativo analisado:** CARLOS BITTENCOURT
+
 **Código do dossiê:** ESTAGIÁRIO IDEAL 
+
 **Atualização:** 01/05/2026
 
 ---
@@ -80,7 +84,7 @@ Ter construir um texto dissertativo-argumentativo que impactou positivamente no 
 
 (Foto minha)
 
-* Auxiliar meu pai no ponto de ecoturismo: Portaria Queda Do véu. Experiência que fortaleceu minha visão sobre dados, organização, segurança e meio ambiente, exercendo as funções de controle de acesso e monitoramento. 
+* Ter Auxiliado meu pai no ponto de ecoturismo: Portaria Queda Do véu - Cachoeira de Cocais. Experiência que fortaleceu minha visão sobre dados, organização, segurança e meio ambiente, exercendo as funções de controle de acesso e monitoramento. 
 
 (foto minha)
 
@@ -88,37 +92,36 @@ Ter construir um texto dissertativo-argumentativo que impactou positivamente no 
 
 ### 🔍 METODOLOGIA DE ANÁLISE ( COMO EU COMECEI A PENSAR E AGIR COMO ANALISTA) (ME VENDER)
 
-A investigação foi conduzida com base em:
-
-* Análise de projetos práticos
-* Registros de aprendizado
-* Simulações de cenários reais
-* Estudo de frameworks como OWASP
-
-Critérios utilizados:
-
-* Capacidade de análise
-* Evolução técnica
-* Aplicação prática
-* Clareza na documentação
-
 ---
 
 ### 📎 EVIDÊNCIAS COLETADAS - CASOS ANALISADOS (PROJETOS EM QUE DESENVOLVI A PRÁTICA)
 
-#### 🧾 Caso 001 — PROJETO TYPHONCOM - JULHO/2025 - DEZEMBRO/2025
+#### 🧾 Caso 001 — PROJETO FUNDAMENTOS DE SISTEMAS - TYPHONCOM | JULHO/2025 - DEZEMBRO/2025
 
 **Descrição do cenário:**
 Projeto construído em equipe, no seguinte contexto: Mapear processos de uma empresa real e compreender o fluxo da informação, integrando conhecimentos técnicos, empresariais, legais e humanísticos para propor ferramentas, procedimentos e infraestrutura de hardware que aprimorem a segurança da informação. A empresa em estudo foi do ramo de telecomunicações, em que preservamos sua identidade por um nome fictício.
 
-**Ação/Responsabilidade do ativo:**
-- Contexto de Organização (Missão, Visão e Valores) e Negócio (Oferta de serviços de internet via fibra óptica);
-- Mapeamento dos dispositivos pessoais utilizados na organização (BYOD - Bring Your Own Device) e seus principais riscos de acordo com a gestão e análise de risco;
-- Estudo de PSI (Política de Segurança da Informação);
-- Criação do modelo de Sistema de Informação e também pela Análise de Riscos / Continuidade / Contingência/.
-- Trabalho em equipq, trazendo pontos relevantes, mudanças ou complementos. Quando necessário, ajudei os demais integrantes da equipe nesses pontos.
+**Aprendizados Desenvolvidos:**
+
+*GRC (Governança, Riscos e Compliance)
+*ISO 27001 / 27002
+*Gestão de riscos ISO/IEC 27005
+*Plano Continuidade de negócios (PCN)
+*Segurança em ambientes BYOD
+
+**Minhas responsabilidades/ações**
+
+- Aplicação de princípios de Segurança da Informação considerando o contexto organizacional (Missão, Visão e Valores) e o modelo de negócio, com foco na oferta de serviços de internet via fibra óptica;
+-Realização do mapeamento de dispositivos pessoais (BYOD – Bring Your Own Device) utilizados na organização, identificando vulnerabilidades e avaliando riscos com base em práticas de gestão e análise de riscos;
+-Modelagem de um Sistema de Informação, incluindo:
+*Análise de riscos;
+*Estratégias de continuidade de negócios;
+*Planos de contingência;
+-Atuação colaborativa em equipe, contribuindo com melhorias, sugestões e complementações ao projeto, além de apoio direto aos demais integrantes quando necessário.
 
 **Metodologia aplicada:**
+
+Durante a construção do projeto, identifiquei a ausência de padronização no fluxo das etapas e limitações técnicas na abordagem dos riscos. Para isso, desenvolvi um documento padronizado que otimizou o processo de checagem e busquei apoio técnico com um profissional do setor, utilizando fontes recomendadas por ele.
 
 <img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/2950431e-c92e-4fa9-b0f2-9ff57c0dd87c" />
 <img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/8919d92f-9442-40eb-8013-e536c273b694" />
@@ -128,25 +131,22 @@ Projeto construído em equipe, no seguinte contexto: Mapear processos de uma emp
 <img width="2482" height="3509" alt="Image" src="https://github.com/user-attachments/assets/65ae4b93-8d26-4df8-98bb-3d307e050dc0" />
 
 **Resultado obtido:**
-[Resultado]
 
-**Análise do analista:**
-Foi demonstrado que pude desenvolver:
+Como resultado, o grupo melhorou sua comunicação e estratégias, reduzindo erros de formatação e fortalecendo minha capacidade de análise tecnica.
 
-* [Competência 1]
-* [Competência 2]
+**Análise do orientador:**
+Competências que desenvolvi e que atendi aos requisitoas:
 
-**Aprendizados identificados:**
-
-* (Ferramentas e aspectos de segurança)
+* Fundamentos da Segurança da Informação;
+* Trabalho em Equipe.
 
 **Atenção**
 Este projeto foi adaptado para fins de portfólio.
-Nenhuma informação confidencial ou identificável da organização original foi incluída.
+Nenhuma informação identificável da organização original foi incluída.
 
 ---
 
-#### 🧾 Caso 002 — [Nome]
+#### 🧾 Caso 002 — PROJETO SEGURANÇA PARA NEGÓCIOS - W.W. CLÍNICAS | JANEIRO/2026 - JULHO/2026
 
 (repita conforme necessário)
 
@@ -154,74 +154,25 @@ Nenhuma informação confidencial ou identificável da organização original fo
 
 ### ⚠️ ANÁLISE DE VULNERABILIDADES (PONTOS PRINCIPAIS EM QUE ENCONTREI DIFICULDADES)
 
-Durante a investigação, foram identificadas as seguintes fragilidades:
-
-* [Lacuna técnica]
-* [Falta de experiência em X]
-* [Dificuldade específica]
-
-Impacto potencial:
-[Como isso afeta sua evolução]
-
 ---
 
 ### 🛡️ HARDENING — MEDIDAS CORRETIVAS IMPLEMENTADAS (MINHAS SOLUCÕES)
 
-Em resposta às vulnerabilidades identificadas:
-
-* [Curso realizado]
-* [Novo método de estudo]
-* [Prática aplicada]
-
-Resultado observado:
-
-* [Melhoria concreta]
-  
 ---
 
 ### 📊 DIAGNÓSTICO ATUAL (HABILIDADES E CERTIFICADOS)
-
-Com base nas evidências, conclui-se que o ativo apresenta:
-
-* Nível atual: [Iniciante / Júnior]
-
-* Principais pontos fortes:
-
-  * [Ponto forte]
-
-* Áreas em desenvolvimento:
-
-  * [Área]
 
 ---
 
 ### 🔮 PROGNÓSTICO — PROJEÇÃO DE EVOLUÇÃO (MEU PAPEL FINAL É...)
 
-Projeta-se que o ativo possui potencial para:
-
-* [Caminho profissional]
-
-Recomenda-se:
-
-* [Próximos passos]
-* [Certificações / estudos]
-
 ---
 
 ### 🧾 CONCLUSÃO DO DOSSIÊ (MEU PAPEL FINAL É...)
 
-A análise geral indica que o ativo [Seu nome] encontra-se em processo consistente de evolução, apresentando capacidade de adaptação, aprendizado contínuo e desenvolvimento técnico progressivo.
-
-O conjunto de evidências sugere potencial para atuação futura na área de Segurança da Informação, com tendência de especialização em [área].
-
 ---
 
 ### 📂 ANEXOS CONFIDENCIAIS
-
-* Certificados
-* Links de projetos
-* GitHub
-* Documentações completas
 
 ---
 
