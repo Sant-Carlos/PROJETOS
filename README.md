@@ -150,7 +150,8 @@ Nenhuma informação identificável da organização original foi incluída.
 
 #### 🧾 Caso 002 — PROJETO SEGURANÇA PARA NEGÓCIOS - W.W. CLÍNICAS | JANEIRO/2026 - JULHO/2026
 
-(repita conforme necessário)
+**Descrição do cenário:**
+Análise com viés de Consultoria e GRC de segurança da informação aplicada ao contexto de uma clínica oncológica, utilizando normas de segurança, processos de negócio, sistemas de informação e projetos de topologia de redes. Envolvendo principalmente o diagnóstico e proposta de melhoria, considerando os pilares de disponibilidade, integridade e confidencialidade das informações.
 
 ---
 
